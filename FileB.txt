@@ -1,2 +1,3 @@
 This is file B.
 Made a change to file B.
+Made a change to file B for pushing to Github.
