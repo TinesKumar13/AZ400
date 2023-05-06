@@ -1,2 +1,3 @@
 This is file A.
 Made a change to file A.
+Made another change in file A for branch FeautureA.
